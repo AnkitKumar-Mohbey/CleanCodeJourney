@@ -1,3 +1,7 @@
+// Problem Statement: Give some numbers (e.g Three) numbers, Calculate their average.
+// Input: Three integers from the user.
+// Output: The average of those numbers as a double.
+
 import java.util.Scanner;
 
 public class AverageCalculator{
